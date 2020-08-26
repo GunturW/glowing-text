@@ -1,0 +1,56 @@
+/*Iphone X*/
+@media only screen and (min-width:375px) {
+    span{
+        font-size: 3rem;
+    }
+}
+
+/*Iphone 5/SE*/
+@media only screen and (min-width:320px) {
+    span{
+        font-size: 2rem;
+    }
+}
+
+/*Pixel 2*/
+@media only screen and (min-width:411px) {
+    span{
+        font-size: 3.5rem;
+    }
+}
+
+/*Ipad*/
+@media only screen and (min-width:768px) {
+    span{
+        font-size: 6rem;
+    }
+}
+
+/*Generic Laptop*/
+@media only screen and (min-width:1280px) {
+    span{
+        font-size: 10rem;
+    }
+}
+
+/*MacBook Pro 15 inc*/
+@media only screen and (min-width:2880px) {
+    span{
+        font-size: 32rem;
+    }
+}
+
+/*MacBook Pro 13 inc*/
+@media only screen and (min-width:2560px) {
+    span{
+        font-size: 40rem;
+    }
+}
+
+/*Ipad Pro*/
+@media only screen and (min-width:1024px) {
+    span{
+        font-size: 10rem;
+    }
+}
+
